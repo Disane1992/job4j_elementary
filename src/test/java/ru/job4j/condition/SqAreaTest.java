@@ -32,4 +32,5 @@ public class SqAreaTest {
         System.out.println(out);
         Assert.assertEquals(expected, out, 0.01);
     }
+
 }
